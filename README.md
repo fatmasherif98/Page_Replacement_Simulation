@@ -7,3 +7,5 @@ It is required to simulate some of paging replacement algorithms. The required a
  First In First Out (FIFO)
  Least Recently Used (LRU) 
  Clock 
+![](image1.PNG)
+![](image2.PNG)
